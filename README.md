@@ -18,9 +18,13 @@ Please create 3 empty folders:
 
 ### Download Data
 Due to the file limit of Github, we put the dataset on other sites. Please first download the data and put it in `data` folder. Three time series datasets and the learned best models can be download at: 
+
 *`data`: It contains original time series dataset.  https://pan.baidu.com/s/1TxJ2StuCe5gfTtn_ELmOSg Extraction code: hiwq
+
 *`features`: This folder contains the processed features and precomputed seed distances for three time series datasets. https://pan.baidu.com/s/16tmRwEsz4WSLBTG6k-_Dyg Extraction code: x2fx
+
 *`best_models`: It contains the learned best models. https://pan.baidu.com/s/1kQzCd7oAxAII5FscTWrMLA Extraction code: 3jtc
+
 *`UCRSuite`: Modified UCR Suite for time series classification. https://pan.baidu.com/s/1gthOreFy5FznWQqITNZL3Q Extraction code: cs7w
 
 ### Preprocessing
